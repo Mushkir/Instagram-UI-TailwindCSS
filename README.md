@@ -15,7 +15,7 @@ This project is a clone of the Instagram user interface, built using HTML and Ta
 
 
 ## Internship
-This internship is provided by CyberDude Networks Pvt. Ltd. as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by Mr. Anbuselvan Rocky. For more information, you can contact CyberDude Networks here.
+This internship is provided by CyberDude Networks Pvt. Ltd. as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by Mr. Anbuselvan Rocky (https://github.com/anburocky3). For more information, you can contact CyberDude Networks here (https://www.cyberdudenetworks.com).
 ## Tech Stack
 
 **1. HTML**
